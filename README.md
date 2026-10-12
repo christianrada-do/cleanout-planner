@@ -1,3 +1,5 @@
+> **This repository is archived.** The planner now lives in [`Hyponatremia-Peds/hyponatremia-peds.github.io`](https://github.com/Hyponatremia-Peds/hyponatremia-peds.github.io/tree/main/cleanout-planner) (folder `cleanout-planner/`). The app's address and QR code are unchanged: **https://hyponatremia-peds.github.io/cleanout-planner/**
+
 # Constipation Cleanout Planner
 
 **By Dr. Christian Rada, DO**
